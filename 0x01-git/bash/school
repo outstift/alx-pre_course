@@ -1,4 +1,9 @@
 #!/bin/bash
 echo "School" 
 #!/bin/bash\necho "School"
+<<<<<<< HEAD
 -e"School"\necho "" 
+=======
+"School"
+echo "" 
+>>>>>>> origin/update_script
